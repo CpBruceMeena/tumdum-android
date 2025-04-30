@@ -1,0 +1,29 @@
+com.example.tumdum.app-fragment-1.7.1-0 /Users/sandeep.mehta/.gradle/caches/transforms-3/1c4f95ad7c1a09a86a20326f9f3ed2ae/transformed/fragment-1.7.1/res
+com.example.tumdum.app-jetified-savedstate-1.2.1-1 /Users/sandeep.mehta/.gradle/caches/transforms-3/217c2f687c7fe926a2c1bd3af4731334/transformed/jetified-savedstate-1.2.1/res
+com.example.tumdum.app-jetified-core-ktx-1.13.1-2 /Users/sandeep.mehta/.gradle/caches/transforms-3/310ab4227cc89eff8ca2fdf38339e736/transformed/jetified-core-ktx-1.13.1/res
+com.example.tumdum.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-3 /Users/sandeep.mehta/.gradle/caches/transforms-3/39634901efe902bb4c098a491953c650/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.tumdum.app-jetified-activity-1.8.1-4 /Users/sandeep.mehta/.gradle/caches/transforms-3/3a7f9bde230a80956c114eba670cbbd3/transformed/jetified-activity-1.8.1/res
+com.example.tumdum.app-jetified-annotation-experimental-1.4.0-5 /Users/sandeep.mehta/.gradle/caches/transforms-3/47bfbb1a93ac21f9a748a579b2cb807d/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.tumdum.app-jetified-window-java-1.2.0-6 /Users/sandeep.mehta/.gradle/caches/transforms-3/4dd1a1d06c7260623805c6cc0ff09bd8/transformed/jetified-window-java-1.2.0/res
+com.example.tumdum.app-lifecycle-runtime-2.7.0-7 /Users/sandeep.mehta/.gradle/caches/transforms-3/69ac575e762f77c95de750730152388c/transformed/lifecycle-runtime-2.7.0/res
+com.example.tumdum.app-jetified-startup-runtime-1.1.1-8 /Users/sandeep.mehta/.gradle/caches/transforms-3/6bf134517f06e665203f37f919f516f6/transformed/jetified-startup-runtime-1.1.1/res
+com.example.tumdum.app-lifecycle-viewmodel-2.7.0-9 /Users/sandeep.mehta/.gradle/caches/transforms-3/936cfe29c597867a98f43d43abf8e754/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.tumdum.app-jetified-window-1.2.0-10 /Users/sandeep.mehta/.gradle/caches/transforms-3/93cd7dde6b82bbbe6d149fde1e4dd8a6/transformed/jetified-window-1.2.0/res
+com.example.tumdum.app-lifecycle-livedata-2.7.0-11 /Users/sandeep.mehta/.gradle/caches/transforms-3/948485c27e4bcd2e128c0ba5259126b9/transformed/lifecycle-livedata-2.7.0/res
+com.example.tumdum.app-jetified-lifecycle-process-2.7.0-12 /Users/sandeep.mehta/.gradle/caches/transforms-3/952799fa8564cc709564bc332455f22c/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.tumdum.app-jetified-core-1.0.0-13 /Users/sandeep.mehta/.gradle/caches/transforms-3/96a2fba37042b98239e5dfe1257c9466/transformed/jetified-core-1.0.0/res
+com.example.tumdum.app-lifecycle-livedata-core-2.7.0-14 /Users/sandeep.mehta/.gradle/caches/transforms-3/97623a4e06239042329cbe2d17d547e9/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.tumdum.app-jetified-profileinstaller-1.3.1-15 /Users/sandeep.mehta/.gradle/caches/transforms-3/a875785b3bcae3f5116fc2582d37be63/transformed/jetified-profileinstaller-1.3.1/res
+com.example.tumdum.app-core-runtime-2.2.0-16 /Users/sandeep.mehta/.gradle/caches/transforms-3/b1dcf5f16d12237b1443792e6512f6d1/transformed/core-runtime-2.2.0/res
+com.example.tumdum.app-core-1.13.1-17 /Users/sandeep.mehta/.gradle/caches/transforms-3/c2811c6f4e4fadc5ed375481b89fd90a/transformed/core-1.13.1/res
+com.example.tumdum.app-jetified-tracing-1.2.0-18 /Users/sandeep.mehta/.gradle/caches/transforms-3/c71ea3fcec61728141451da770dab6e8/transformed/jetified-tracing-1.2.0/res
+com.example.tumdum.app-jetified-lifecycle-livedata-core-ktx-2.7.0-19 /Users/sandeep.mehta/.gradle/caches/transforms-3/cd704a33a16a81310417746dced16f3d/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.tumdum.app-debug-20 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/android/app/src/debug/res
+com.example.tumdum.app-main-21 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/android/app/src/main/res
+com.example.tumdum.app-pngs-22 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/build/app/generated/res/pngs/debug
+com.example.tumdum.app-resValues-23 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/build/app/generated/res/resValues/debug
+com.example.tumdum.app-rs-24 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/build/app/generated/res/rs/debug
+com.example.tumdum.app-mergeDebugResources-25 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.tumdum.app-mergeDebugResources-26 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.tumdum.app-merged_res-27 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/build/app/intermediates/merged_res/debug
+com.example.tumdum.app-packaged_res-28 /Users/sandeep.mehta/Documents/AdhocProjects/Other Projects/Tumdum/tumdum_android/build/path_provider_android/intermediates/packaged_res/debug

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.tumdum.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tumdum.app-main-21:/mipmap-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tumdum.app-merged_res-27:/drawable_launch_background.xml.flat",
+        "source": "com.example.tumdum.app-main-21:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.example.tumdum.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tumdum.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
